@@ -1,2 +1,2 @@
 # Smart-Market-Insights-Using-Unsupervised-Machine-Learning
-This project uses machine learning to analyze retail transactions. It applies KMeans clustering to group similar purchases and Apriori algorithm to find frequently bought-together products. Visualizations and evaluation metrics help understand customer buying patterns.
+A market analysis project using unsupervised learning to uncover customer purchasing patterns and top-selling products. Applied PCA for dimensionality reduction and KMeans for clustering to derive actionable insights from transactional data.terns.
